@@ -1,6 +1,6 @@
 import React from 'react'
 
-function PlayerDetails (props) {
+const PlayerDetails = (props) => {
     return (
         <div className="c-player--details">
             <div className="details-img">

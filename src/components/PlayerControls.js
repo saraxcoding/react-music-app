@@ -1,9 +1,9 @@
 import React from 'react';
 
-const PlayerContrls = () => {
+const PlayerControls = () => {
     return (
         <div>
-            
+
         </div>
     )
 }
