@@ -1,7 +1,7 @@
 import React from 'react';
 import PlayerDetails from './PlayerDetails';
 
-function Player (props) {
+const Player = (props) => {
     return (
         <div className="c-player">
             <audio></audio>
