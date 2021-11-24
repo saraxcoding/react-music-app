@@ -1,7 +1,7 @@
 import {useState} from 'react';
 import Player from './components/Player';
 
-function App() {
+function App () {
   const [songs, setSongs] = useState([
     {
       title: "Song 1", /* place holders */
